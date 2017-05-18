@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Android开发者 | 学习iOS # 主页上方大字，同时也是网页标签字。
-subtitle: Hello Word #主页上方小字。
-description: 技术宅 Android开发 JAVA开发 小青年
+title: Android Developer | 学习iOS中 # 主页上方大字，同时也是网页标签字。
+subtitle: 奋斗小青年，技术但不宅 #主页上方小字。
+description: 技术宅 Android开发 JAVA开发 小青年 #无法显示
 author: 万秦龙 #姓名
 language: zh-CN
 timezone:
