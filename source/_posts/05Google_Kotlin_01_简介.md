@@ -1,12 +1,13 @@
 ---
-title: Kotlin | Kotlin Programming Language
+title: Android官方新编程语言Kotlin | Kotlin Programming Language
 date: 2017-5-18 17:00:14  #文章生成时间
 categories: #法律法规 #文章分类目录 可以省略
-- Kotlin
+- Kotlin编程语言
 tags: #文章标签 可以省略
 - #实用教程
 - #YouTube
 ---
+网上有好多戏称，一觉醒来Kotlin成了Android的官方语言。
 ![](http://wx4.sinaimg.cn/large/0069VnN5ly1ffpmonl2zxj311u0fjaio.jpg)
 ![](http://wx4.sinaimg.cn/large/0069VnN5ly1ffpmq9yfgyj31320nk47d.jpg)
 # Kotlin #
