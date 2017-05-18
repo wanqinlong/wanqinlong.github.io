@@ -28,3 +28,21 @@ Kotlin 是一个基于 JVM 的新的编程语言，由 JetBrains 开发。
 让它比Java更简洁，通过支持variable type inference，higher-order functions (closures)，extension functions，mixins and first-class delegation等实现。
 
 让它比最成熟的竞争对手Scala语言更加简单。
+
+
+
+# 相关报道 #
+[Kotlin：Android世界的Swift](http://www.infoq.com/cn/news/2015/06/Android-JVM-JetBrains-Kotlin)
+
+[Android开发周报：不使用虚拟机的Kotlin发布、Android方法数杂谈](http://www.infoq.com/cn/news/2017/05/Android-weekly-Kotlin-way)
+
+[Android开发者应该知道的Kotlin](http://www.infoq.com/cn/news/2016/01/kotlin-android)
+
+[Kotlin如何成为我们Android开发的主要语言](http://www.infoq.com/cn/articles/how-kotlin-become-our-android-develop-language)
+
+[实战Kotlin@Android（一）：项目配置和语言转换](http://www.infoq.com/cn/articles/actual-combat-of-kotlin-android-part01)
+
+[实战Kotlin@Andorid（二）：界面构建与扩展方法](http://www.infoq.com/cn/articles/actual-combat-of-kotlin-android-part02)
+
+[实战kotlin@android（三）：扩展变量与其它技巧](http://www.infoq.com/cn/articles/actual-combat-kotlin-android-part03)
+[Android开发周报：Android 8.0即将公测、模块化探索与实践](http://www.infoq.com/cn/news/2017/05/Android-weekly-8-0-test)
