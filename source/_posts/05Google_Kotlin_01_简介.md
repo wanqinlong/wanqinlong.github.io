@@ -11,6 +11,7 @@ tags: #文章标签 可以省略
 
 网上有好多戏称一觉醒来Kotlin成了Android的官方语言成了谷歌的新宠儿。之前Oracle起诉Google在Android中使用Java索赔93亿美金的消息曾经轰动整个科技界。Java和Kotlin同样是基于JVM（JVM：Java Virtual Machine，Java虚拟机的缩写）的编程语言，简直就是换汤不换药。
 ![](http://wx4.sinaimg.cn/large/0069VnN5ly1ffpmonl2zxj311u0fjaio.jpg)
+<!--more-->
 ![](http://wx4.sinaimg.cn/large/0069VnN5ly1ffpmq9yfgyj31320nk47d.jpg)
 # Kotlin #
 Kotlin 是一个基于 JVM 的新的编程语言，由 JetBrains 开发。

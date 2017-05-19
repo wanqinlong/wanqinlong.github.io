@@ -23,6 +23,9 @@ menu:
   id-card: # address-book user-circle
     text: 关于博主
     url: /about
+  #address-book: # address-book user-circle 【试过了，可以添加“最近”单独页，可用来写一些信息】
+    #text: 最近
+    #url: /zuijin
   weibo:
     text: 微博
     url: http://weibo.com/u/5643460167
@@ -66,37 +69,43 @@ tags_title: Tags
 archives_title: Archives
 categories_title: Categories
 
-# 文章截断 
-# excerpt_render: 设置为false则主页显示小卡片式博文，设置为true则显示图文并茂展开的博文。
-# excerpt_length: 100 原始为 200 ，现修改为 100
-excerpt_render: true  
-excerpt_length: 200   
+# 文章截断
+    # 1、文章摘要渲染方式: 为 true 时将渲染为 html，否则为文本
+    # 可以在 Markdown 文件中加 <!--more-->以分割摘要与文章正文。未设置时，按 excerpt_length 设置截取。
+    #excerpt_render: true   设置为 true 为图文并茂展开，设置为 false 为小卡片
+    # 2、开启后，使你的站点支持公式渲染，by mathjax。 请按需开启，因为此项需要加载额外的 js 文件。
+excerpt_render: true
+excerpt_length: 200
 excerpt_link: 阅读全文...
 mathjax: false
 archive_yearly: true
 
-# 是否显示文章最后更新时间
+# 是否显示文章最后更新时间 【】
 show_last_updated: false
 
-# 是否开启分享
+# 是否开启分享，文章分享开关，by jiathis-api。
 share: true
 
+
+
 # 是否开启打赏，关闭 reward: false
+# 此外在 crad theme 中，可以通过在 markdown 头部添加 reward: false 来控制某些不想开启打赏的页面。
 reward:
   title: 谢谢支持
   wechat: /img/wechat.jpg     #微信，关闭设为 false
   alipay: /img/alipay.jpg     #支付宝，关闭设为 false
 
-# 是否开启搜索
+# 站内搜索：是否开启搜索
 search: true
 
-# 是否大屏幕下文章页隐藏导航
+# 布局：是否大屏幕下文章页隐藏导航。开启后，文章页在大屏下会隐藏左侧菜单，专注阅读。
 hideMenu: true
 
-# 是否开启toc
+# 是否开启toc，开启文章内容导航。
 # toc: false
+#   list_number: true  # 是否显示数字排序 # 决定导航使用的标签， true 为 ol， false 为 ul。
 toc:
-  list_number: true  # 是否显示数字排序
+  list_number: true
 
 # 文章页留言内容，hexo中所有变量及辅助函数等均可调用，具体请查阅 hexo.io
 #(我去掉的)postMessage: 这里可以写作者留言，标签和 hexo 中所有变量及辅助函数等均可调用，示例：<a href="<%- url_for(page.path).replace(/index\.html$/, '') %>" target="_blank" rel="external"><%- url.replace(/index\.html$/, '') %></a>
@@ -114,7 +123,8 @@ tajs: false
 google_analytics: false
 google_site_verification: false
 
-# less
+# less ，设置 less 编译时的入口文件路径，hexo-renderer-less。
+# compress: true    # 是否压缩css
 less:
   compress: true
   paths:

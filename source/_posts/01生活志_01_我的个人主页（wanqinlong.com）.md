@@ -10,6 +10,7 @@ tags: #文章标签 可以省略
 
 欢迎来到我的博客，可通过在浏览器地址栏输入  [http://wanqinlong.com](http://wanqinlong.com)  来访问我的个人主页，点击主页左侧导航栏（注：在博文界面中需要点击网站左上角的按钮弹出导航栏）中的 [博主](http://wanqinlong.com/about/) 选项就可以看到我的个人信息以及联系方式。
 ![](http://i.imgur.com/IeelbI7.png)
+<!--more-->
 
 -  搭建技术：[Hexo](https://hexo.io/zh-cn/) + [GitHub](https://github.com/) + [indigo主题](https://github.com/yscoder/hexo-theme-indigo)。
 -  喜欢的同学可以尝试一下搭建一个属于自己的个人博客，非计算机系的同学也可以尝试学习一下。

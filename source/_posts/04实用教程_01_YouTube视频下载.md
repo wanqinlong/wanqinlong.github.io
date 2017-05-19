@@ -16,7 +16,7 @@ tags: #文章标签 可以省略
 ## 第1步：进入视频下载工具网站 ##
 进入视频下载工具网站——网址：http://en.savefrom.net ，即可通过该网站来下载YouTube视频。
 ![](http://wx2.sinaimg.cn/large/0069VnN5gy1ffn7iw8jdyj315j0pygo7.jpg)
-
+<!--more-->
 ## 第2步：复制要下载视频的连接 ##
 进入YouTube网站复制自己想要下载的视频的连接。例如，以下视频的连接为“ https://www.youtube.com/watch?v=hJ8n_5LhMT8 ”。
 ![](http://wx1.sinaimg.cn/large/0069VnN5gy1ffn7ixmjenj30wr0m44qp.jpg) 
