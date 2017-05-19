@@ -141,6 +141,7 @@ disqus_shortname: false
 uyan_uid: false
 # 是否开启网易云跟帖， 填写app sdk中的app key
 wangyi_ygt: 77ab315ba35e4a9fba801ece5562c92d
+gentie_productKey: 77ab315ba35e4a9fba801ece5562c92d 
 # 是否使用 gitment，https://github.com/imsun/gitment
 gitment: false
 # gitment:
