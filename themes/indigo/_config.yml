@@ -36,7 +36,7 @@ menu:
     text: 博文标签
     url: /tags
   android:
-    text: 笔记存档
+    text: 博客园
     url: http://www.cnblogs.com/wanqinlong/
     target: _blank
   #github:
