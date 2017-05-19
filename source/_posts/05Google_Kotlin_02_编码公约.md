@@ -7,7 +7,7 @@ tags: #文章标签 可以省略 #设置为则当前页没有打赏按钮reward:
 - Android官方新编程语言Kotlin
 - #YouTube
 ---
-2该页面包含Kotlin语言的当前编码风格。
+该页面包含Kotlin语言的当前编码风格。
 <!--more-->
 # 命名风格 #
 如果有疑问，请默认使用Java编码约定，例如：
