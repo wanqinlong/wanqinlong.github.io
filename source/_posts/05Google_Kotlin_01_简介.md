@@ -7,10 +7,17 @@ tags: #文章标签 可以省略 #设置为则当前页没有打赏按钮reward:
 - Android官方新编程语言Kotlin
 - #YouTube
 ---
-网上有好多戏称一觉醒来Kotlin成了Android的官方语言成了谷歌的新宠儿。之前Oracle起诉Google在Android中使用Java索赔93亿美金的消息曾经轰动整个科技界。Java和Kotlin同样是基于JVM（JVM：Java Virtual Machine，Java虚拟机的缩写）的编程语言，简直就是换汤不换药。
+Kotlin是一种在Java虚拟机上运行的静态类型编程语言。它主要是由俄罗斯圣彼得堡的JetBrains开发团队所发展出来的编程语言，其名称来自于圣彼得堡附近的科特林岛。
 ![](http://wx4.sinaimg.cn/large/0069VnN5ly1ffpmonl2zxj311u0fjaio.jpg)
 <!--more-->
 ![](http://wx4.sinaimg.cn/large/0069VnN5ly1ffpmq9yfgyj31320nk47d.jpg)
+# 历史 #
+
+1. 2011年7月，JetBrains推出Kotlin项目，这是一个面向JVM的新语言，它已被开发一年之久。JetBrains负责人Dmitry Jemerov说，大多数语言没有他们正在寻找的特性，Scala除外。淡出，他指出了Scala的编译时间慢这一明显缺陷。Kotlin的既定目标之一是像Java一样快速编译。
+2. 2012年2月，JetBrains以Apache 2许可证开源此项目。
+3. Jetbrains希望这个新语言能够推动IntelliJ IDEA的销售。
+4. Kotlin v1.0于2016年2月15日发布。这被认为是第一个官方稳定版本，并且JetBrains已准备从该版本开始的长期向后兼容性。
+5. 在Google I/O 2017中，Google宣布在Android上为Kotlin提供一等支持。
 # Kotlin #
 Kotlin 是一个基于 JVM 的新的编程语言，由 JetBrains 开发。
 
@@ -26,7 +33,8 @@ Kotlin 是一个基于 JVM 的新的编程语言，由 JetBrains 开发。
 
 # 官方网址 #
 [Kotlin官方网站](http://kotlinlang.org/)
-
+[官方示例](https://try.kotlinlang.org)
+[Kotlin官方网站——中文翻译](https://www.kotlincn.net/)
 # 相关报道 #
 [Kotlin：Android世界的Swift](http://www.infoq.com/cn/news/2015/06/Android-JVM-JetBrains-Kotlin)
 

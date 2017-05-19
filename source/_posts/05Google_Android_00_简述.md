@@ -9,9 +9,10 @@ tags: #文章标签 可以省略 #设置为则当前页没有打赏按钮reward:
 - # 标签2
 ---
 # 7.0/7.1.1/7.1.2(Android Nougat)基于Linux Kernel 3.4.0 #
+[Google为中国开发者提供的资源](https://developers.google.cn/china/)
 2016年3月9日，Google发布Android N的开发者预览版本，并开放下载。
 2016年8月22日，Google发布Android 7.0（牛轧糖Nougat）。 主要更新如下：
-
+<!--more-->
 1. 支持多视窗模式
 2. 加入应用在 Android Wear 上的 RemoteInput notification API
 3. 强化Doze 的省电功能
