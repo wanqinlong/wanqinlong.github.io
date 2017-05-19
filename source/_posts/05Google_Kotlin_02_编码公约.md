@@ -7,7 +7,6 @@ tags: #文章标签 可以省略
 - Android官方新编程语言Kotlin
 - #YouTube
 ---
-# 编码公约 #
 该页面包含Kotlin语言的当前编码风格。
 <!--more-->
 # 命名风格 #
