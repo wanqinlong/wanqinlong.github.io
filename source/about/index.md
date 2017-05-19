@@ -14,10 +14,11 @@ comments: false
 
 ## 联系方式
 > * 邮箱：<wanqinlongjob@gmail.com>
+> * Github：[https://github.com/wanqinlong](https://github.com/wanqinlong)
 > * 微博：[@万秦龙](http://weibo.com/u/5643460167)
 > * 简书：[简书](http://www.jianshu.com/u/d49d8f622a49/)
-> * 笔记：[笔记存档](http://www.cnblogs.com/wanqinlong/)
-> * Github：[https://github.com/wanqinlong](https://github.com/wanqinlong)
+> * 笔记：[博客园笔记存档](http://www.cnblogs.com/wanqinlong/)
+> * [http://git.oschina.net/wanqinlong](http://git.oschina.net/wanqinlong)
 
 ## 生活小日常
 > * 微博小岛：[@秦龙的小岛](http://weibo.com/HymanW)  点头、微笑、你好、再拥抱，有趣的人终将相遇。
