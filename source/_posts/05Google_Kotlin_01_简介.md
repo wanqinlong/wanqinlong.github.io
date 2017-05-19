@@ -2,13 +2,11 @@
 title: Android官方新编程语言Kotlin | Kotlin Programming Language
 date: 2017-5-18 17:00:14  #文章生成时间
 categories: #法律法规 #文章分类目录 可以省略
-- Kotlin编程语言
+- Android官方新编程语言Kotlin
 tags: #文章标签 可以省略
-- #实用教程
+- Android官方新编程语言Kotlin
 - #YouTube
 ---
-[Kotlin官方网站](http://kotlinlang.org/)
-
 网上有好多戏称一觉醒来Kotlin成了Android的官方语言成了谷歌的新宠儿。之前Oracle起诉Google在Android中使用Java索赔93亿美金的消息曾经轰动整个科技界。Java和Kotlin同样是基于JVM（JVM：Java Virtual Machine，Java虚拟机的缩写）的编程语言，简直就是换汤不换药。
 ![](http://wx4.sinaimg.cn/large/0069VnN5ly1ffpmonl2zxj311u0fjaio.jpg)
 <!--more-->
@@ -25,7 +23,8 @@ Kotlin 是一个基于 JVM 的新的编程语言，由 JetBrains 开发。
 3. 让它比Java更简洁，通过支持variable type inference，higher-order functions (closures)，extension functions，mixins and first-class delegation等实现。
 4. 让它比最成熟的竞争对手Scala语言更加简单。
 
-
+# 官方网址 #
+[Kotlin官方网站](http://kotlinlang.org/)
 
 # 相关报道 #
 [Kotlin：Android世界的Swift](http://www.infoq.com/cn/news/2015/06/Android-JVM-JetBrains-Kotlin)
