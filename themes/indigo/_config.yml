@@ -7,21 +7,13 @@
 #    text: About       菜单显示的文字，如果省略即默认与图标一致，首字母会转大写
 #    url: /about       链接，绝对或相对路径，必须。
 #    target: _blank    是否跳出，省略则在当前页面打开
-home:
-    text: 博客主页
+menu:
+  home:
+    text: 主页
     url: /
   id-card: # address-book user-circle
-    text: 关于博主
+    text: 博主
     url: /about
-  archives: 
-    text: 最新文章
-    url: /archives
-  th-list:
-    text: 文章分类
-    url: /categories
-  tags:
-    text: 文章标签
-    url: /tags
   book: # book   address-book
     text: 简书
     url: http://www.jianshu.com/u/d49d8f622a49
@@ -34,8 +26,17 @@ home:
     text: 小岛
     url: http://weibo.com/HymanW
     target: _blank
+  archives: 
+    text: 博文时间
+    url: /archives
+  th-list:
+    text: 博文分类
+    url: /categories
+  tags:
+    text: 博文标签
+    url: /tags
   android:
-    text: 笔记
+    text: 笔记存档
     url: http://www.cnblogs.com/wanqinlong/
     target: _blank
   #github:
