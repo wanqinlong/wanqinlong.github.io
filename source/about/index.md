@@ -1,6 +1,7 @@
 title: Hyman Wan
 layout: about
 comments: false
+reward: false
 ---
 ## 基本信息 ##
 > * <center>
