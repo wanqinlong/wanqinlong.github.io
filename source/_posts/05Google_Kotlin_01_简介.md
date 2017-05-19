@@ -17,6 +17,7 @@ Kotlin 是一个基于 JVM 的新的编程语言，由 JetBrains 开发。
 1. 开发公司：JetBrains
 2. 开源协议：Apache
 3. 基础：JVM或JavaScript环境（基于JVM的编程语言 Kotlin）
+
 # 设计目标 #
 1. 创建一种兼容Java的语言
 2. 让它比Java更安全，能够静态检测常见的陷阱。如：引用空指针
