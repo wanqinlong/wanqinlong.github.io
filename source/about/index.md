@@ -5,7 +5,7 @@ reward: false
 ---
 ## 基本信息 ##
 > * <center>
-		![](https://wanqinlong.github.io/img/avatar1.png)
+		![](https://wanqinlong.github.io/images/avatar1.png)
 	</center>
 > * 姓名：万秦龙（Android Developer | 学习iOS | 奋斗小青年）
 > * 专业：计算机应用技术
