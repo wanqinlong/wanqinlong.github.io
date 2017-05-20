@@ -88,7 +88,7 @@ theme: next      # next # material # indigo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/wanqinlong/wanqinlong.github.io.git
+  repo: https://git.oschina.net/wanqinlong/wanqinlong.git
   branch: master  # dev master
   
 
