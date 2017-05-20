@@ -7,6 +7,7 @@ install:
   - npm install -- save-dev hexo-util
   - npm install hexo-deployer-git --save
   - npm install hexo-generator-feed --save
+  - npm install hexo-generator-searchdb --save
 #before_script:
  # - npm install -g gulp
 script:
