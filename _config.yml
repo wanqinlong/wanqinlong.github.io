@@ -3,30 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 万秦龙 Hyman Wan # 主页上方大字，同时也是网页标签字。
-subtitle: Android Developer | 学习iOS中<br>奋斗小青年，技术但不宅 #主页上方小字。
-description: wanqinlongjob@gmail.com <br> Hyman Wan | Android开发 | JAVA开发  <br>90后小青年  #站点描述
-author: 万秦龙 #设置 作者昵称
-language: zh-Hans
+title: Android Developer | 学习iOS中 # 主页上方大字，同时也是网页标签字。
+subtitle: 奋斗小青年，技术但不宅 #主页上方小字。
+description: 技术宅 Android开发 JAVA开发 小青年 #无法显示
+author: 万秦龙 #姓名
+language: zh-CN
 timezone:
 
 #avatar: /images/avatartouxiang.jpg
-search:
-  path: search.xml
-  field: post
-  format: html
-  limit: 10000
 
-# 友情链接
-links_title: 链接
-links:
-  谷歌中国开发者: https://developers.google.cn/china/
-  Android Developers中国: https://developer.android.google.cn/index.html
-  kotlin中文网: https://www.kotlincn.net/
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://wanqinlong.com #博客网址
+url: http://wanqinlong.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -51,16 +40,11 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
-#highlight:
-  #enable: true
-  #line_number: true
-  #auto_detect: true
-  #tab_replace:
 highlight:
   enable: true
   line_number: true
-  auto_detect: true
-  tab_replace: 
+  auto_detect: false
+  tab_replace:
 
 # Category & Tag
 default_category: uncategorized
@@ -82,8 +66,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-## 启用主题
-theme: next      # next # material # indigo
+theme: indigo
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
