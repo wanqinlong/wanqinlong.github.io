@@ -154,12 +154,15 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 # 社交链接
 social:
-  GitHub: https://github.com/your-user-name
-  Twitter: https://twitter.com/your-user-name
-  我的微博: http://weibo.com/your-user-name
-  我的豆瓣: http://douban.com/people/your-user-name
-  我的知乎: http://www.zhihu.com/people/your-user-name
-  我的简书: http://www.zhihu.com/people/your-user-name
+  我的微博: http://weibo.com/u/5643460167
+  我的小岛: http://weibo.com/HymanW
+  GitHub: https://github.com/wanqinlong
+  我的简书: http://www.jianshu.com/u/d49d8f622a49/
+  博客园: http://www.cnblogs.com/wanqinlong/ 
+  #Twitter: https://twitter.com/your-user-name
+  #我的豆瓣: http://douban.com/people/your-user-name
+  #我的知乎: http://www.zhihu.com/people/your-user-name
+  
 
 
 # Social Links Icons
@@ -173,8 +176,9 @@ social_icons:
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   Twitter: twitter
-  Weibo: weibo
-  简书: weibo
+  我的微博: weibo
+  我的小岛: weibo
+  
 
 
 # Sidebar Avatar
@@ -197,7 +201,7 @@ toc:
 #creative_commons: by-nc-sa
 #creative_commons:
 
-# Sidebar Position, available value: left | right
+# Sidebar Position, available value: left | right 侧边栏
 sidebar:
   position: left
   #position: right
@@ -206,8 +210,8 @@ sidebar:
   #  - always  expand for all pages automatically
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
-  #display: post  # - 默认行为，在文章页面（拥有目录列表）时显示
-  display: always # - 在所有页面中都显示
+  display: post  # - 默认行为，在文章页面（拥有目录列表）时显示
+  #display: always # - 在所有页面中都显示
   #display: hide # - 在所有页面中都隐藏（可以手动展开）
   #display: remove # - 完全移除
 

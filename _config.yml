@@ -18,10 +18,11 @@ search:
   limit: 10000
 
 # 友情链接
-links_title: Links
+links_title: 链接
 links:
-  MacTalk: http://macshuo.com/
-  Title: http://example.com/
+  谷歌中国开发者: https://developers.google.cn/china/
+  Android Developers中国: https://developer.android.google.cn/index.html
+  kotlin中文网: https://www.kotlincn.net/
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
