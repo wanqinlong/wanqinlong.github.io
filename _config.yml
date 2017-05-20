@@ -4,7 +4,7 @@
 
 # Site
 title: 万秦龙 Hyman Wan # 主页上方大字，同时也是网页标签字。
-subtitle: Android Developer | 学习iOS中<奋斗小青年，技术但不宅> #主页上方小字。
+subtitle: Android Developer | 学习iOS中<br>奋斗小青年，技术但不宅 #主页上方小字。
 description: wanqinlongjob@gmail.com <br> Hyman Wan | Android开发 | JAVA开发  <br>90后小青年  #站点描述
 author: 万秦龙 #设置 作者昵称
 language: zh-Hans
