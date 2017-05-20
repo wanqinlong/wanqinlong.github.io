@@ -26,7 +26,7 @@ links:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://wanqinlong.oschina.io/wanqinlong.github.io
+url: http://wanqinlong.com #博客网址
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
