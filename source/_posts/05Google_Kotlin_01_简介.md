@@ -18,6 +18,7 @@ Kotlin是一种在Java虚拟机上运行的静态类型编程语言。它主要�
 3. Jetbrains希望这个新语言能够推动IntelliJ IDEA的销售。
 4. Kotlin v1.0于2016年2月15日发布。这被认为是第一个官方稳定版本，并且JetBrains已准备从该版本开始的长期向后兼容性。
 5. 在Google I/O 2017中，Google宣布在Android上为Kotlin提供一等支持。
+
 # Kotlin #
 Kotlin 是一个基于 JVM 的新的编程语言，由 JetBrains 开发。
 
