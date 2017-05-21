@@ -1,6 +1,6 @@
 ---
 title: 《2017Android官方新编程语言Kotlin | 4行代码成功体验Kotlin修改TextView显示文字》 #标题
-date: 2017-5-19 13:27:12  #文章生成时间
+date: 2017-5-22 03:07:56  #文章生成时间
 categories: #文章分类 可省略 # 加 <!--more-->以分割摘要与文章正文。
 - 2017Android官方新编程语言Kotlin
 - #分类2
