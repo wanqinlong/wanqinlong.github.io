@@ -35,6 +35,7 @@ Kotlin 是一个基于 JVM 的新的编程语言，由 JetBrains 开发。
 [Kotlin官方网站](http://kotlinlang.org/)
 [官方示例](https://try.kotlinlang.org)
 [Kotlin官方网站——中文翻译](https://www.kotlincn.net/)
+
 # 相关报道 #
 [Kotlin：Android世界的Swift](http://www.infoq.com/cn/news/2015/06/Android-JVM-JetBrains-Kotlin)
 
