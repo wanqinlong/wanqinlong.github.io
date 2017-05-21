@@ -4,7 +4,7 @@ date: 2017-5-18 17:00:14  #文章生成时间
 categories: #法律法规 #文章分类目录 可以省略
 - 2017Android官方新编程语言Kotlin
 tags: #文章标签 可以省略 #设置为则当前页没有打赏按钮reward: false
-- Android官方新编程语言Kotlin
+- Kotlin语言
 - #YouTube
 ---
 Kotlin是一种在Java虚拟机上运行的静态类型编程语言。它主要是由俄罗斯圣彼得堡的JetBrains开发团队所发展出来的编程语言，其名称来自于圣彼得堡附近的科特林岛。

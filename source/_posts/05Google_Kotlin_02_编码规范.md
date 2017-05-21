@@ -4,7 +4,7 @@ date: 2017-5-19 13:27:12  #文章生成时间
 categories: #法律法规 #文章分类目录 可以省略 # 加 <!--more-->以分割摘要与文章正文。
 - 2017Android官方新编程语言Kotlin
 tags: #文章标签 可以省略 #设置为则当前页没有打赏按钮reward: false
-- Android官方新编程语言Kotlin
+- Kotlin语言
 - #YouTube
 ---
 ![](http://wx1.sinaimg.cn/large/0069VnN5gy1ffsr0rt9m7j315o0kuwu0.jpg)

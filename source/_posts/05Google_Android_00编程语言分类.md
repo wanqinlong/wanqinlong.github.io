@@ -2,10 +2,10 @@
 title: 《编程语言分类》
 date: 2017-5-20 19:28:19  #文章生成时间
 categories: #文章分类 可省略 # 加 <!--more-->以分割摘要与文章正文。
-- #分类1
+- Android
 - #分类2
 tags: #文章标签 可以省略 #设置为则当前页没有打赏按钮reward: false
-- #标签1
+- Android
 - #标签2
 ---
 ![](http://i.imgur.com/nLNXFVk.jpg)
