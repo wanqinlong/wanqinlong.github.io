@@ -1,5 +1,5 @@
 ---
-title: 《2017Android官方新编程语言Kotlin | 4行代码成功体验Kotlin修改TextView显示文字》 #标题
+title: 《2017Android官语Kotlin | 4行代码成功体验Kotlin修改TextView显示文字》 #标题
 date: 2017-5-22 03:07:56  #文章生成时间
 categories: #文章分类 可省略 # 加 <!--more-->以分割摘要与文章正文。
 - 2017Android官方新编程语言Kotlin
@@ -13,6 +13,7 @@ tags: #文章标签 可以省略 #设置为则当前页没有打赏按钮reward:
 apply plugin: 'kotlin-android-extensions'
 ```
 ![](http://wx4.sinaimg.cn/large/0069VnN5gy1fftkjezx4uj31hb0st4ls.jpg)
+<!--more-->
 # 第2行 #
 ```
 android:id="@+id/message"
