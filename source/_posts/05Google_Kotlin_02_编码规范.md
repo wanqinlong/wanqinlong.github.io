@@ -7,8 +7,9 @@ tags: #文章标签 可以省略 #设置为则当前页没有打赏按钮reward:
 - Android官方新编程语言Kotlin
 - #YouTube
 ---
-此⻚面包含当前 Kotlin 语言的编码⻛格。
+![](http://i.imgur.com/QlUURPa.png)
 <!--more-->
+此页面包含当前 Kotlin 语言的编码⻛格。
 # 命名风格 #
 如果拿不准的时候，默认使用Java的编码规范，比如：
 
