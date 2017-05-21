@@ -8,4 +8,4 @@ tags: #文章标签 可以省略 #设置为则当前页没有打赏按钮reward:
 - Android
 - #标签2
 ---
-![](http://i.imgur.com/nLNXFVk.jpg)
+![](http://wx1.sinaimg.cn/large/0069VnN5gy1fft3y3j3t9j319p0pv160.jpg)
