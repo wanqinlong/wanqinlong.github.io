@@ -16,7 +16,7 @@ reward: false
 ## 联系方式
 > * 邮箱：<wanqinlongjob@gmail.com>
 > * 微博：[@万秦龙](http://weibo.com/u/5643460167)
-> * 推特：[@wanqinlong](https://twitter.com/wanqinlong)
+> * 推特-：[@wanqinlong](https://twitter.com/wanqinlong)
 > * 简书：[简书](http://www.jianshu.com/u/d49d8f622a49/)
 > * 笔记：[笔记存档](http://www.cnblogs.com/wanqinlong/)
 > * Github：[https://github.com/wanqinlong](https://github.com/wanqinlong)
