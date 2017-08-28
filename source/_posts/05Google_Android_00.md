@@ -17,7 +17,7 @@ tags: #文章标签 可以省略 #设置为则当前页没有打赏按钮reward:
 [AndroidCat安卓书签网](http://androidcat.com)
 
 [干货集中营](http://gank.io/)
-
+<!--more-->
 ## 工具 ##
 [Android源代码在线查看](http://androidxref.com/)
 
