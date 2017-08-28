@@ -1,5 +1,5 @@
-title: Hyman Wan
-layout: about
+title: catalogue
+layout: catalogue
 comments: false
 reward: false
 ---
