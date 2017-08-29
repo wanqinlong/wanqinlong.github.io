@@ -37,22 +37,6 @@ tags: #文章标签 可以省略 #设置为则当前页没有打赏按钮reward:
 
 [eoe Android社区](http://www.eoeandroid.com/forum.php)
 
-# iOS #
-## 周刊 ##
-[iOS周刊](https://iosdevweekly.com/)
-
-## 论坛 ##
-[Cocoa](http://www.cocoachina.com/)
-
-[Code4App](http://code4app.com/)
-
-[iOS走马观花](http://ios.b2mp.cn/)
-
-[iOS逆向开发论坛](http://ios.b2mp.cn/)
-
-## 资源合集 ##
-[iOS 资源大全](http://ios.jobbole.com/83907/)
-
 # 安全 #
 ## 网站 ##
 [看雪安全论坛](http://bbs.pediy.com/)
