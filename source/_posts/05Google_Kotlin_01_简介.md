@@ -2,7 +2,8 @@
 title: 《2017Android官语Kotlin | Kotlin Programming Language》
 date: 2017-5-18 17:00:14  #文章生成时间
 categories: #法律法规 #文章分类目录 可以省略
-- 2017Android官方新编程语言Kotlin
+- Android
+- Kotlin
 tags: #文章标签 可以省略 #设置为则当前页没有打赏按钮reward: false
 - Kotlin语言
 - #YouTube
