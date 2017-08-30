@@ -5,7 +5,7 @@
 # Site
 title: 万秦龙 Hyman Wan # 主页上方大字，同时也是网页标签字。
 subtitle: Android Developer | 学习iOS中<br>奋斗小青年，技术但不宅 #主页上方小字。
-description: wanqinlongjob@gmail.com <br> Hyman Wan | Android开发 | JAVA开发  <br>90后小青年  #站点描述
+description: wanqinlongjob@gmail.com <br> Android开发 | JAVA开发  <br>90后小青年  #站点描述
 author: 万秦龙 #设置 作者昵称
 language: zh-Hans
 timezone:
@@ -23,6 +23,7 @@ links:
   谷歌中国开发者: https://developers.google.cn/china/
   Android Developers中国: https://developer.android.google.cn/index.html
   kotlin中文网: https://www.kotlincn.net/
+  谷歌ARCore: https://developers.google.cn/ar/
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
