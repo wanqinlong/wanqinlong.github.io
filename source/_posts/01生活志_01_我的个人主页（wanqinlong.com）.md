@@ -2,6 +2,7 @@
 title: 《生活志 | 我的个人主页（http://wanqinlong.com）》
 date: 2017-05-11
 categories: #法律法规 #文章分类目录 可以省略
+- 科技与生活
 - 生活志
 tags: #文章标签 可以省略
 - GitHub
