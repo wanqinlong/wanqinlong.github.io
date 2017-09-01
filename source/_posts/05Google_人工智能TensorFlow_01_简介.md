@@ -16,6 +16,6 @@ tags: #文章标签 可以省略 #设置为则当前页没有打赏按钮reward:
 
 <!--more-->
 
-[使用指南（中国）](tensorflow.google.cn)
+[使用指南（中国）](https://tensorflow.google.cn/)
 
 [Github仓库](https://github.com/tensorflow/tensorflow)
