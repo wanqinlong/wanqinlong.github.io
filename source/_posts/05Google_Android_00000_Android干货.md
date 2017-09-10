@@ -11,6 +11,24 @@ tags: #文章标签 可以省略 #设置为则当前页没有打赏按钮reward:
 - #标签2
 ---
 # Android #
+## 官方 ##
+[谷歌中国开发者](https://developers.google.cn/china/)
+
+[谷歌开发者社区(GDG)中国](http://www.chinagdg.com/) 
+  
+[Android Developers中国](https://developer.android.google.cn/index.html)
+
+[kotlin中文网](https://www.kotlincn.net/) 
+
+[谷歌ARCore](https://developers.google.cn/ar/) 
+ 
+Google物联网（IoT）
+ 
+[Android Things中国](https://developer.android.google.cn/things/index.html) 
+ 
+[TensorFlow中国](https://tensorflow.google.cn/)
+
+
 ## 周刊 ##
 [Android博客周刊](http://www.androidblog.cn/)
 
