@@ -9,9 +9,9 @@ tags: #文章标签 可以省略
 ---
 ![](https://i.imgur.com/IxtbrS4.png)
 
-![](https://i.imgur.com/U9S2DXc.png)
-
 <!--more-->
+
+![](https://i.imgur.com/U9S2DXc.png)
 
 [官网](https://www.oracle.com/solutions/internet-of-things/)
 
