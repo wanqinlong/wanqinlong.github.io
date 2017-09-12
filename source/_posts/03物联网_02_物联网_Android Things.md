@@ -8,6 +8,7 @@ tags: #文章标签 可以省略
 - 物联网
 ---
 # 物联网（IoT） #
+## Google物联网 ##
 [Google物联网（IoT）](https://developers.google.com/iot/)解决方案[Android Things](https://developer.android.google.cn/things/index.html)（以前称为Brillo）。
 ![](http://wx1.sinaimg.cn/mw690/0069VnN5gy1fj3chztzvzj31ae0og7ai.jpg)
 
@@ -17,8 +18,16 @@ tags: #文章标签 可以省略
 
 [官方仓库](https://github.com/androidthings)
 
-# 阅读 #
+## 阅读 ##
 [Android Things 物联网应用开发初体验](https://www.diycode.cc/topics/518)
+
+# 其他物联网 #
+## Oracle物联网 ##
+![](https://i.imgur.com/IxtbrS4.png)
+
+![](https://i.imgur.com/U9S2DXc.png)
+
+[官网](https://www.oracle.com/solutions/internet-of-things/)
 
 
 
