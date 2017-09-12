@@ -1,5 +1,5 @@
 ---
-title: 《倡议 | Android 绿色应用公约》
+title: 《第三方倡议 | Android 绿色应用公约》
 date: 2017-9-12 17:20:49  #文章生成时间
 categories: #法律法规 #文章分类目录 可以省略 
 - Android
