@@ -3,7 +3,7 @@ title: 《Google | Android发行版》
 date: 2017-5-20 03:53:57  #文章生成时间
 categories: #法律法规 #文章分类目录 可以省略 # 加 <!--more-->以分割摘要与文章正文。
 - Android
-- # 分类2
+- 开发
 tags: #文章标签 可以省略 #设置为则当前页没有打赏按钮reward: false
 - # 标签1    #  正文截取<!--more-->
 - # 标签2
