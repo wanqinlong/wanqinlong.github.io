@@ -21,13 +21,16 @@ tags: #文章标签 可以省略 #设置为则当前页没有打赏按钮reward:
 [kotlin中文网](https://www.kotlincn.net/) 
 
 [谷歌ARCore](https://developers.google.cn/ar/) 
- 
-Google物联网（IoT）
+
+<!--more-->
+
+## Google物联网（IoT） ##
  
 [Android Things中国](https://developer.android.google.cn/things/index.html) 
+
+## 人工智能 ##
  
 [TensorFlow中国](https://tensorflow.google.cn/)
-
 
 ## 周刊 ##
 [Android博客周刊](http://www.androidblog.cn/)
@@ -37,8 +40,6 @@ Google物联网（IoT）
 [AndroidCat安卓书签网](http://androidcat.com)
 
 [干货集中营](http://gank.io/)
-
-<!--more-->
 
 ## 工具 ##
 [Android源代码在线查看](http://androidxref.com/)
