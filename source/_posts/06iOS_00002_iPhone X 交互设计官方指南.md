@@ -3,11 +3,11 @@ title: 《iOS | iPhone X 交互设计官方指南》
 date: 2017-9-14 10:29:37  #文章生成时间
 categories: #文章分类 可省略 # 加 <!--more-->以分割摘要与文章正文。
 - iOS
-- ARKit
+- 交互
 - #分类2
 tags: #文章标签 可以省略 #设置为则当前页没有打赏按钮reward: false
-- iOS
-- ARKit
+- 交互
+- 屏幕适配
 - #标签2
 ---
 ![](https://i.imgur.com/yG1vhi2.png)
