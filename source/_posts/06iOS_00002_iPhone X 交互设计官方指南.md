@@ -10,7 +10,6 @@ tags: #文章标签 可以省略 #设置为则当前页没有打赏按钮reward:
 - ARKit
 - #标签2
 ---
-# Designing for iPhone X #
 ![](https://i.imgur.com/yG1vhi2.png)
 
 <!--more-->
@@ -21,4 +20,6 @@ tags: #文章标签 可以省略 #设置为则当前页没有打赏按钮reward:
 [iPhone X交互设计指南（官网）](https://developer.apple.com/ios/human-interface-guidelines/overview/iphone-x/)
 
 ![](https://i.imgur.com/uzlb9bM.png)
+
+
 

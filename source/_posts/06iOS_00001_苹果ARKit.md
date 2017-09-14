@@ -10,8 +10,7 @@ tags: #文章标签 可以省略 #设置为则当前页没有打赏按钮reward:
 - ARKit
 - #标签2
 ---
-# 苹果ARKit #
-[http://www.arkit.io/](http://www.arkit.io/)
+[苹果ARKit](http://www.arkit.io/)
 
 ![](http://wx2.sinaimg.cn/mw690/0069VnN5gy1fjbdva23crj31gq0if7wj.jpg)
 
