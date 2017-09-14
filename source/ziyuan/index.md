@@ -1,7 +1,5 @@
-title: Hyman Wan
-layout: 资源
-comments: false
-reward: false
+title: 资源
+date: 2017-05-20 00:41:21
 type: "ziyuan"
 ---
 ## 基本信息 ##
