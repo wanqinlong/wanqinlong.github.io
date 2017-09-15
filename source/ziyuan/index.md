@@ -4,26 +4,31 @@ type: "ziyuan"
 ---
 # 一、Android #
 ## 1. 谷歌官方资源（中国） ##
-（01）Google Gevelopers**[（中国）](https://developers.google.cn/)** | (国际)
+（01）Google Gevelopers[（中国）](https://developers.google.cn/) | [(国际)](https://developers.google.com/)
+
+ - [@googledevs](https://twitter.com/googledevs) | [Google+](https://plus.google.com/+GoogleDevelopers/posts) | [YouTuBe](https://www.youtube.com/user/GoogleDevelopers) | [GitHub](https://github.com/google)
 
 （02）[Google 为中国开发者提供的资源](https://developers.google.cn/china/)
 
 （03）[谷歌中国开发者社区(GDG)](http://chinagdg.org/) |  [论坛](http://www.chinagdg.com/)
 
- - [西安GDG（网站）](http://gdgxian.org/) | [论坛](http://www.chinagdg.com/forum-44-1.html)
+ - 西安GDG[（网站）](http://gdgxian.org/) | [论坛](http://www.chinagdg.com/forum-44-1.html)
+ - 视频 [（优酷）](http://chinagdg.org/google-videos/) | （国际）
 
-（04）[谷歌开发者中文博客](http://developers.googleblog.cn/)
+（04）谷歌开发者中文博客[（中国）](http://developers.googleblog.cn/) | [（国际）](https://developers.googleblog.com/)
 
 ## 2. 技术文档 ##
-（01）Android Developers[（中国）](https://developer.android.google.cn/index.html) |（国际）
+（01）Android Developers[（中国）](https://developer.android.google.cn/index.html) |[（国际）](https://developer.android.com/index.html)
 
-（02）kotlin [(中文网)](https://www.kotlincn.net/) 
+ - [博客](https://android-developers.googleblog.com/) | [@AndroidDev](https://twitter.com/AndroidDev) | [Google+](https://plus.google.com/+AndroidDevelopers)　| [YouTuBe](https://www.youtube.com/user/androiddevelopers) | [GitHub](https://github.com/android)
 
-（03）物联网（IoT）Android Things[（中国）](https://developer.android.google.cn/things/index.html) 
+（02）kotlin [(中文网)](https://www.kotlincn.net/) | [（国际）](https://kotlinlang.org/)
 
-（04）人工智能TensorFlow[（中国）](https://tensorflow.google.cn/)
+（03）物联网（IoT）Android Things[（中国）](https://developer.android.google.cn/things/index.html) | [（国际）](https://developer.android.com/things/index.html)
 
-（05）[虚拟现实ARCore](https://developers.google.cn/ar/) 
+（04）人工智能TensorFlow[（中国）](https://tensorflow.google.cn/) | [（国际）](https://www.tensorflow.org/)
+
+（05）虚拟现实ARCore[（中国）](https://developers.google.cn/ar/) | [（国际）](https://developers.google.com/ar/)
 
 
 
