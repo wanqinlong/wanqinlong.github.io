@@ -14,7 +14,7 @@ Google为中国开发者提供的资源 | [网站](https://developers.google.cn/
 视频 |  [ 优酷](http://chinagdg.org/google-videos/)、国际
 谷歌开发者博客 | [ 中国](http://developers.googleblog.cn/)、[ 国际](https://developers.googleblog.com/)
 Android Developers | [ 中国](https://developer.android.google.cn/index.html)、[ 国际](https://developer.android.com/index.html)
- | [博客](https://android-developers.googleblog.com/)、[@AndroidDev](https://twitter.com/AndroidDev)、[Google+](https://plus.google.com/+AndroidDevelopers)、[YouTuBe](https://www.youtube.com/user/androiddevelopers)、[GitHub](https://github.com/android)
+ | [国际博客](https://android-developers.googleblog.com/)、[@AndroidDev](https://twitter.com/AndroidDev)、[Google+](https://plus.google.com/+AndroidDevelopers)、[YouTuBe](https://www.youtube.com/user/androiddevelopers)、[GitHub](https://github.com/android)
 kotlin | [ 中文网](https://www.kotlincn.net/)、[ 国际](https://kotlinlang.org/)
 物联网（IoT）Android Things | [ 中国](https://developer.android.google.cn/things/index.html)、[ 国际](https://developer.android.com/things/index.html)
 人工智能TensorFlow | [ 中国](https://tensorflow.google.cn/)、[ 国际](https://www.tensorflow.org/)
