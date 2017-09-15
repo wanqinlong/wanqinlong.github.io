@@ -158,14 +158,14 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 # 社交链接
 social:
-  我的微博: http://weibo.com/u/5643460167
-  我的小岛: http://weibo.com/HymanW
+  微博: http://weibo.com/u/5643460167
+  小岛: http://weibo.com/HymanW
   GitHub: https://github.com/wanqinlong
-  我的简书: http://www.jianshu.com/u/d49d8f622a49/
+  简书: http://www.jianshu.com/u/d49d8f622a49/
   博客园: http://www.cnblogs.com/wanqinlong/ 
   Twitter: https://twitter.com/wanqinlong
-  #我的豆瓣: http://douban.com/people/your-user-name
-  #我的知乎: http://www.zhihu.com/people/your-user-name
+  #豆瓣: http://douban.com/people/your-user-name
+  #知乎: http://www.zhihu.com/people/your-user-name
   
 
 
@@ -180,8 +180,8 @@ social_icons:
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   Twitter: twitter
-  我的微博: weibo
-  我的小岛: weibo
+  微博: weibo
+  小岛: weibo
   
 
 
