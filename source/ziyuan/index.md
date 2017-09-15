@@ -30,6 +30,8 @@ type: "ziyuan"
 
 （05）虚拟现实ARCore[（中国）](https://developers.google.cn/ar/) | [（国际）](https://developers.google.com/ar/)
 
+## 3. 谷歌开发者专家 ##
+ - [丽贝卡·弗兰克斯 Rebecca Franks ](https://riggaroo.co.za/) 
 
 
 # 二、iOS #
