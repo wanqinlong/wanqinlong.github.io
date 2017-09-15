@@ -2,7 +2,7 @@ title: 资源
 date: 2017-05-20 00:41:21
 comments: false
 reward: false
-type: "ziyuan"
+type: "resource"
 ---
 # 一、Android #
 ## 1. 官方资源 ##
