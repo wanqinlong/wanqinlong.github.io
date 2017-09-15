@@ -45,4 +45,4 @@ Android Things 的一个重要目标是：帮助开发者从原型开发无缝�
 
 ----------
 
-[歌中文开发者博客原文](http://developers.googleblog.cn/2017/08/android-things-developer-preview-5.html)
+[原文](http://developers.googleblog.cn/2017/08/android-things-developer-preview-5.html)
