@@ -4,9 +4,11 @@ type: "ziyuan"
 ---
 # 一、Android #
 ## 1. 谷歌官方资源（中国） ##
-[（01）谷歌中国开发者](https://developers.google.cn/china/)
+[（01）Google中国开发者](https://developers.google.cn/china/)
 
-[（02）中国开发者社区(GDG)](http://www.chinagdg.com/) 
+[（02）谷歌中国开发者社区(GDG)](http://chinagdg.org/) |  [论坛](http://www.chinagdg.com/)
+
+ - [西安GDG（网站）](http://gdgxian.org/) | [论坛](http://www.chinagdg.com/forum-44-1.html)
 
 [（03）谷歌开发者中文博客](http://developers.googleblog.cn/)
 
