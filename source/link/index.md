@@ -7,7 +7,7 @@ type: "link"
 谷歌开发者专家| 连接
 -------|----------
 梅西匡（Macy Kuang） | [Google+](https://plus.google.com/+MacyKuang) 、[Miao miao Games](http://miaomiaogames.com/) 、 [Twitter](https://twitter.com/MacyKuang) 、 [Youtube](https://www.youtube.com/CodeToCreate) 、 微博 
-
+丽贝卡·弗兰克斯（Rebecca Franks） | [博客](https://riggaroo.co.za/) 
 
 ----------
 
