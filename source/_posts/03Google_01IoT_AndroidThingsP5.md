@@ -23,6 +23,8 @@ Android Things 的一个重要目标是：帮助开发者从原型开发无缝�
 
 ![](https://i.imgur.com/EalbvxB.png)
 
+<!--more-->
+
 - Edison
 
 ![](https://i.imgur.com/zeJq8Lv.png)
