@@ -4,7 +4,7 @@ type: "ziyuan"
 ---
 # 一、Android #
 ## 1. 谷歌官方资源（中国） ##
-（01）Google Gevelopers**[（中国）](https://developers.google.cn/)** | **[（国际）]([（04）kotlin中文网](https://www.kotlincn.net/) )**
+（01）Google Gevelopers**[（中国）](https://developers.google.cn/)** | (国际)
 
 （02）[Google 为中国开发者提供的资源](https://developers.google.cn/china/)
 
@@ -17,11 +17,11 @@ type: "ziyuan"
 ## 2. 技术文档 ##
 （01）Android Developers[（中国）](https://developer.android.google.cn/index.html) |（国际）
 
-（02）[kotlin中文网](https://www.kotlincn.net/) 
+（02）kotlin [(中文网)](https://www.kotlincn.net/) 
 
-（03）[物联网（IoT）Android Things（中国）](https://developer.android.google.cn/things/index.html) 
+（03）物联网（IoT）Android Things[（中国）](https://developer.android.google.cn/things/index.html) 
 
-（04）[人工智能TensorFlow（中国）](https://tensorflow.google.cn/)
+（04）人工智能TensorFlow[（中国）](https://tensorflow.google.cn/)
 
 （05）[虚拟现实ARCore](https://developers.google.cn/ar/) 
 
