@@ -1,4 +1,4 @@
-title: Hyman Wan
+title: 
 layout: 标签
 comments: false
 reward: false
