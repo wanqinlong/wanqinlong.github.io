@@ -91,9 +91,9 @@ alipay: /path/to/alipay-reward-image
 # ---------------------------------------------------------------
 
 # Schemes
-#scheme: Muse  
+scheme: Muse  
 #scheme: Mist
-scheme: Pisces
+#scheme: Pisces
 
 
 # ---------------------------------------------------------------
