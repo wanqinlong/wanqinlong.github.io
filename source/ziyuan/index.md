@@ -1,5 +1,6 @@
 title: 
-date: 2017-05-20 00:41:21
+comments: false
+reward: false
 type: "ziyuan"
 ---
 # 一、Android #
@@ -34,7 +35,7 @@ type: "ziyuan"
  - [丽贝卡·弗兰克斯 Rebecca Franks ](https://riggaroo.co.za/) 
 
 
-# 二、iOS #
+# 二、iOS. #
 ## 1. 官方资源 ##
 （01）[苹果开发者中心（中文）](https://developer.apple.com/cn/)
 
