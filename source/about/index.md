@@ -7,7 +7,7 @@ reward: false
 > * <center>
 		![](http://wx1.sinaimg.cn/large/0069VnN5gy1ffs08evfuqj30p008wjwh.jpg)
 	</center>
-> * 姓名：万秦龙（Android Developer | 学习iOS | 奋斗小青年）
+> * 姓名：万秦龙（Android Developer | Learning ios）
 > * 专业：计算机应用技术
 > * 届别：2013届
 > * 生日：1990-10-23
