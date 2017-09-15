@@ -6,7 +6,7 @@ type: "ziyuan"
 ## 1. 官方资源 ##
 （01）Google Gevelopers[（中国）](https://developers.google.cn/) | [(国际)](https://developers.google.com/)
 
- - [@googledevs](https://twitter.com/googledevs) | [Google+](https://plus.google.com/+GoogleDevelopers/posts) | [YouTuBe](https://www.youtube.com/user/GoogleDevelopers) | [GitHub](https://github.com/google)
+ - [@googledevs](https://twitter.com/googledevs)  [Google+](https://plus.google.com/+GoogleDevelopers/posts)   [YouTuBe](https://www.youtube.com/user/GoogleDevelopers)   [GitHub](https://github.com/google)
 
 （02）[Google 为中国开发者提供的资源](https://developers.google.cn/china/)
 
@@ -15,12 +15,12 @@ type: "ziyuan"
  - 西安GDG[（网站）](http://gdgxian.org/) | [论坛](http://www.chinagdg.com/forum-44-1.html)
  - 视频 [（优酷）](http://chinagdg.org/google-videos/) | （国际）
 
-（04）谷歌开发者中文博客[（中国）](http://developers.googleblog.cn/) | [（国际）](https://developers.googleblog.com/)
+（04）谷歌开发者博客[（中国）](http://developers.googleblog.cn/) | [（国际）](https://developers.googleblog.com/)
 
 ## 2. 技术文档 ##
 （01）Android Developers[（中国）](https://developer.android.google.cn/index.html) |[（国际）](https://developer.android.com/index.html)
 
- - [博客](https://android-developers.googleblog.com/) | [@AndroidDev](https://twitter.com/AndroidDev) | [Google+](https://plus.google.com/+AndroidDevelopers)　| [YouTuBe](https://www.youtube.com/user/androiddevelopers) | [GitHub](https://github.com/android)
+ - [博客](https://android-developers.googleblog.com/)   [@AndroidDev](https://twitter.com/AndroidDev) [Google+](https://plus.google.com/+AndroidDevelopers)　   [YouTuBe](https://www.youtube.com/user/androiddevelopers)   [GitHub](https://github.com/android)
 
 （02）kotlin [(中文网)](https://www.kotlincn.net/) | [（国际）](https://kotlinlang.org/)
 
