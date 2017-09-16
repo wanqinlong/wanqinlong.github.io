@@ -6,7 +6,7 @@ type: "link"
 ---
 谷歌开发者专家（[Google Developers Experts](https://developers.google.com/experts/)）| 连接
 -------|----------
-梅西匡（Macy Kuang） | [Google+](https://plus.google.com/+MacyKuang) 、[Miao miao Games](http://miaomiaogames.com/) 、 [Twitter](https://twitter.com/MacyKuang) 、 [Youtube](https://www.youtube.com/CodeToCreate) 、 微博 
+梅西匡（Macy Kuang） | [Google+](https://plus.google.com/+MacyKuang) 、[Miao miao Games](http://miaomiaogames.com/) 、 [Twitter](https://twitter.com/MacyKuang) 、 [Youtube](https://www.youtube.com/CodeToCreate) 、 [微博](http://weibo.com/macyk) 
 丽贝卡·弗兰克斯（Rebecca Franks） | [博客](https://riggaroo.co.za/) 
 
 ----------
@@ -15,6 +15,10 @@ type: "link"
 谷歌工程师| 连接
 -------|----------
 韦恩·皮卡斯基（Wayne Piekarski） | [Google+](https://plus.google.com/+WaynePiekarski) 、 [个人网站](http://www.tinmith.net/wayne/) 、 [Tinmith网站](http://www.tinmith.net/) 、 [Twitter](https://twitter.com/waynepiekarski)
+戴夫·史密斯（Dave Smith） | [Google+](https://plus.google.com/+DaveSmithDev) 、  [Twitter](https://twitter.com/devunwired) 、博客[http://wiresareobsolete.com/](http://wiresareobsolete.com/)
+丹·阿尔伯特（Dan Albert） | [Google+](https://plus.google.com/103945690576768346113)  
+Android NDK技术主管
+
 
 
 ----------
