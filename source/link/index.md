@@ -37,6 +37,7 @@ Android| 连接
 
 iOS| 连接
 -------|----------
+朱金辉 | [博客](http://www.kyson.cn) 、 [简书](http://www.jianshu.com/u/24d715499bcf)
 杨萧玉 | [博客](http://yulingtianxia.com/) 、 [Twitter](https://twitter.com/yulingtianxia)
 
 
