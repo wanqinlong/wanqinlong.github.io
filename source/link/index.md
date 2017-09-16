@@ -20,8 +20,6 @@ type: "link"
 丹·阿尔伯特（Dan Albert）：Android NDK技术主管 | [Google+](https://plus.google.com/103945690576768346113) 
 
 
-
-
 ----------
 
 
@@ -38,7 +36,6 @@ Android| 连接
 iOS| 连接
 -------|----------
 朱金辉 | [博客](http://www.kyson.cn) 、 [简书](http://www.jianshu.com/u/24d715499bcf)
-杨萧玉 | [博客](http://yulingtianxia.com/) 、 [Twitter](https://twitter.com/yulingtianxia)
 
 
 ----------
@@ -49,9 +46,3 @@ iOS| 连接
 侯金刚 | [博客](http://hi-andy.com/)
 
 
-----------
-
-
-...| ...
--------|----------
-[极客导航](http://www.jikedaohang.com/index.html) | 
