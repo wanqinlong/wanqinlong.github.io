@@ -11,7 +11,7 @@ reward: false
 > * 专业：计算机应用技术
 > * 届别：2013届
 > * 生日：1990-10-23
-> * 城市：西安（Xi'an）
+> * 位置：西安（Xi'an）
 
 ## 联系方式
 > * 邮箱：<wanqinlongjob@gmail.com>
