@@ -14,10 +14,10 @@ type: "link"
 
 谷歌工程师| 连接
 -------|----------
-韦恩·皮卡斯基（Wayne Piekarski） | [Google+](https://plus.google.com/+WaynePiekarski) 、 [个人网站](http://www.tinmith.net/wayne/) 、 [Tinmith网站](http://www.tinmith.net/) 、 [Twitter](https://twitter.com/waynepiekarski)
-戴夫·史密斯（Dave Smith） | [Google+](https://plus.google.com/+DaveSmithDev) 、  [Twitter](https://twitter.com/devunwired) 、博客[http://wiresareobsolete.com/](http://wiresareobsolete.com/)
-丹·阿尔伯特（Dan Albert） | [Google+](https://plus.google.com/103945690576768346113)  
-Android NDK技术主管
+韦恩·皮卡斯基（Wayne Piekarski）：IoT开发者倡导者 | [Google+](https://plus.google.com/+WaynePiekarski) 、 [个人网站](http://www.tinmith.net/wayne/) 、 [Tinmith网站](http://www.tinmith.net/) 、 [Twitter](https://twitter.com/waynepiekarski)
+戴夫·史密斯（Dave Smith）：IoT开发人员 | [Google+](https://plus.google.com/+DaveSmithDev) 、  [Twitter](https://twitter.com/devunwired) 、[博客](http://wiresareobsolete.com/)
+丹·阿尔伯特（Dan Albert）：Android NDK技术主管 | [Google+](https://plus.google.com/103945690576768346113) 
+詹姆斯·拉乌（James Lau） ：产品经理 |  [Twitter](https://twitter.com/jmslau)
 
 
 
