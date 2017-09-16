@@ -22,5 +22,4 @@ reward: false
 > * Github：[https://github.com/wanqinlong](https://github.com/wanqinlong)
 
 ## 生活小日常
-> * [@秦龙的小岛](http://weibo.com/HymanW)
 > * [Mr.w](http://y.baidu.com/wanqinlong) 
