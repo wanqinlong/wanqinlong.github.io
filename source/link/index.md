@@ -17,7 +17,9 @@ type: "link"
 詹姆斯·拉乌（James Lau） ：产品经理 |  [Twitter](https://twitter.com/jmslau)
 韦恩·皮卡斯基（Wayne Piekarski）：IoT开发技术推广工程师 | [Google+](https://plus.google.com/+WaynePiekarski) 、 [个人网站](http://www.tinmith.net/wayne/) 、 [Tinmith网站](http://www.tinmith.net/) 、 [Twitter](https://twitter.com/waynepiekarski)
 戴夫·史密斯（Dave Smith）：IoT开发工程师 | [Google+](https://plus.google.com/+DaveSmithDev) 、  [Twitter](https://twitter.com/devunwired) 、[博客](http://wiresareobsolete.com/)
-丹·阿尔伯特（Dan Albert）：Android NDK技术主管 | [Google+](https://plus.google.com/103945690576768346113) 
+丹·阿尔伯特（Dan Albert）：Android NDK技术主管 | [Google+](https://plus.google.com/u/0/+TakeshiHagikura) 、 [Twitter](https://twitter.com/thagikura) 、 [博客](http://wiresareobsolete.com/)  、 [FaceBook](https://www.facebook.com/hagikuratakeshi)
+Takeshi Hagikura（日本）：开发者计划工程师 | [Google+](https://plus.google.com/103945690576768346113) 
+Maru Ahues Bouza ：Google Play开发者关系合作伙伴 | [Google+](https://plus.google.com/+MaruAhuesBouza) 、 [Twitter](https://twitter.com/mabouza) 
 
 
 ----------
