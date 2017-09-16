@@ -12,7 +12,7 @@ type: "link"
 ----------
 
 
-谷歌工程师| 连接
+谷歌公司工程师| 连接
 -------|----------
 詹姆斯·拉乌（James Lau） ：产品经理 |  [Twitter](https://twitter.com/jmslau)
 韦恩·皮卡斯基（Wayne Piekarski）：IoT开发技术推广工程师 | [Google+](https://plus.google.com/+WaynePiekarski) 、 [个人网站](http://www.tinmith.net/wayne/) 、 [Tinmith网站](http://www.tinmith.net/) 、 [Twitter](https://twitter.com/waynepiekarski)
