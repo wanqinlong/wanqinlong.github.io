@@ -16,6 +16,23 @@ type: "link"
 -------|----------
 韦恩·皮卡斯基（Wayne Piekarski） | [Google+](https://plus.google.com/+WaynePiekarski) 、 [个人网站](http://www.tinmith.net/wayne/) 、 [Tinmith网站](http://www.tinmith.net/) 、 [Twitter](https://twitter.com/waynepiekarski)
 
+----------
+
+
+Android| 连接
+-------|----------
+郭霖 | [博客](http://blog.csdn.net/guolin_blog)
+鸿洋 | [博客](http://blog.csdn.net/lmj623565791)
+任玉刚 | [博客](http://blog.csdn.net/singwhatiwanna)
+
+
+----------
+
+
+iOS| 连接
+-------|----------
+杨萧玉 | [博客](http://yulingtianxia.com/) 、 [Twitter](https://twitter.com/yulingtianxia)
+
 
 ----------
 
