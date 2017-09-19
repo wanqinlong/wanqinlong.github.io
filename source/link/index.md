@@ -30,12 +30,12 @@ Maru Ahues Bouza | Google Play开发者关系合作伙伴 | [Google+](https://pl
 
 ----------
 
-Android| 连接
+Android| 作品 |连接
 -------|----------
-郭霖 | [博客](http://blog.csdn.net/guolin_blog)
-鸿洋 | [博客](http://blog.csdn.net/lmj623565791)
-任玉刚 | [博客](http://blog.csdn.net/singwhatiwanna)
-
+郭霖 | 《第二行代码》| [博客](http://blog.csdn.net/guolin_blog)
+鸿洋 | |[博客](http://blog.csdn.net/lmj623565791)
+任玉刚 | 《Android开发艺术探索》 | [博客](http://blog.csdn.net/singwhatiwanna)
+刘望舒 | 《Android进阶之光》 | [博客](http://liuwangshu.cn/)
 
 ----------
 
