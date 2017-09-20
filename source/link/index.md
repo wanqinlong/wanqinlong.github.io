@@ -43,7 +43,7 @@ Android| 作品 |连接
 iOS| 连接
 -------|----------
 朱金辉 | [博客](http://www.kyson.cn) 、 [简书](http://www.jianshu.com/u/24d715499bcf)
-
+于德志 | [博客](https://halfrost.com/) 、 [简书](http://www.jianshu.com/u/12201cdd5d7a) 、 [GitHub](https://github.com/halfrost) 、[微博](http://weibo.com/halfrost)
 
 ----------
 
