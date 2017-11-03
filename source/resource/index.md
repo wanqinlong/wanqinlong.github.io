@@ -19,7 +19,6 @@ kotlin | [ 中文网](https://www.kotlincn.net/)、[ 国际](https://kotlinlang.
 物联网（IoT）Android Things | [ 中国](https://developer.android.google.cn/things/index.html)、[IoT](https://developers.google.com/iot/)[ 国际](https://developer.android.com/things/index.html)
 人工智能TensorFlow | [ 中国](https://tensorflow.google.cn/)、[ 国际](https://www.tensorflow.org/)
 虚拟现实ARCore | [ 中国](https://developers.google.cn/ar/)、[ 国际](https://developers.google.com/ar/)
-谷歌开发者专家 | [丽贝卡·弗兰克斯 Rebecca Franks ](https://riggaroo.co.za/)
 
 
 ----------
