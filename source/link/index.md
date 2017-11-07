@@ -7,7 +7,7 @@ type: "link"
 谷歌开发者专家（[Google Developers Experts](https://developers.google.com/experts/)）| 领域 | 连接
 -------|----------
 梅西匡（Macy Kuang） |  | [Google+](https://plus.google.com/+MacyKuang) 、[Miao miao Games](http://miaomiaogames.com/) 、 [Twitter](https://twitter.com/MacyKuang) 、 [Youtube](https://www.youtube.com/CodeToCreate) 、 [微博](http://weibo.com/macyk) 
-丽贝卡·弗兰克斯（Rebecca Franks） |  | [博客](https://riggaroo.co.za/) 
+丽贝卡·弗兰克斯（Rebecca Franks） | Android、AndroidThings  | [个人博客](https://riggaroo.co.za/) 、 
 
 ----------
 
@@ -36,7 +36,14 @@ Android| 作品 |连接
 鸿洋 | |[博客](http://blog.csdn.net/lmj623565791)
 任玉刚 | 《Android开发艺术探索》 | [博客](http://blog.csdn.net/singwhatiwanna)
 刘望舒 | 《Android进阶之光》 | [博客](http://liuwangshu.cn/)
-
+ |  | [技术小黑屋](http://droidyue.com/)
+ |  | [毕小烦的学习笔记](http://blog.csdn.net/wirelessqa)
+ |  | [生命壹号](http://www.cnblogs.com/smyhvae/)
+ |  | [devilyouwei](http://www.cnblogs.com/devilyouwei/)
+周刊 |  | [Android博客周刊](http://www.androidblog.cn/) 、[Android开发技术周报](http://www.androidweekly.cn/) 、 [AndroidCat安卓书签网](http://androidcat.com) 、[干货集中营](http://gank.io/)
+工具 |  | [Android源代码在线查看](http://androidxref.com/) 、[AndroidDevTools](http://www.androiddevtools.cn/) 、[Android开发工具汇总](http://androidblog.cn/tools/) 
+框架 |  | [Android通用流行框架大全](https://segmentfault.com/a/1190000005073746)
+论坛 |  | [Android巴士](http://www.apkbus.com/) 、 [eoe Android社区](http://www.eoeandroid.com/forum.php)
 ----------
 
 
@@ -44,12 +51,42 @@ iOS| 连接
 -------|----------
 朱金辉 | [博客](http://www.kyson.cn) 、 [简书](http://www.jianshu.com/u/24d715499bcf)
 于德志 | [博客](https://halfrost.com/) 、 [简书](http://www.jianshu.com/u/12201cdd5d7a) 、 [GitHub](https://github.com/halfrost) 、[微博](http://weibo.com/halfrost)
-
+ | [小鱼周凌宇](http://zhoulingyu.com/)
+ | [AloneMonkey](http://www.alonemonkey.com/)
+ | [iOSRE](http://bbs.iosre.com/)
+ | [小猪熊](http://www.piggybear.net/)
+ | [杨萧玉（玉令天下）](http://yulingtianxia.com/)
+ | [杨萧玉（玉令天下）](http://yulingtianxia.com/)
+ | [Hybrid框架Watermelon作者](http://www.kyson.cn/)  [简书](http://www.jianshu.com/u/24d715499bcf)
+周刊 | [iOS周刊](https://iosdevweekly.com/)
+论坛 | [Cocoa](http://www.cocoachina.com/) 、[Code4App](http://code4app.com/) 、[iOS走马观花](http://ios.b2mp.cn/) 、[iOS逆向开发论坛](http://ios.b2mp.cn/)
+资源合集 | [iOS 资源大全](http://ios.jobbole.com/83907/)
 ----------
 
 
 运维| 连接
 -------|----------
 侯金刚 | [博客](http://hi-andy.com/)
+
+
+----------
+
+
+安全| 网站
+-------|----------
+安全 | [看雪安全论坛](http://bbs.pediy.com/) 、[吾爱破解论坛](https://www.52pojie.cn/) 、[WooYun知识库](http://drops.wooyun.org/) 、[Android安全中文站](http://www.droidsec.cn/) 、[原博客iOS安全专栏](http://www.blogfshare.com/category/ios-secure) 、[原博客Android安全专栏](http://www.blogfshare.com/category/android-sec) 、
+应用安全安全 | [App安全之网络传输安全](http://ios.jobbole.com/84633/)
+
+
+
+---------
+
+
+产品| 网站
+-------|----------
+ | [人人都是产品经理](http://www.woshipm.com/)
+社区 | [V2EX创意社区](https://www.v2ex.com/)
+
+
 
 
