@@ -7,7 +7,7 @@ type: "link"
 谷歌开发者专家（[Google Developers Experts](https://developers.google.com/experts/)）| 领域 | 连接
 -------|----------
 梅西匡（Macy Kuang） |  | [Google+](https://plus.google.com/+MacyKuang) 、[Miao miao Games](http://miaomiaogames.com/) 、 [Twitter](https://twitter.com/MacyKuang) 、 [Youtube](https://www.youtube.com/CodeToCreate) 、 [微博](http://weibo.com/macyk) 
-丽贝卡·弗兰克斯（Rebecca Franks） | Android、AndroidThings  | [个人博客](https://riggaroo.co.za/) 、 
+丽贝卡·弗兰克斯（Rebecca Franks） | Android、AndroidThings  |[Google+](https://plus.google.com/+RebeccaFranksSA) 、 [个人博客](https://riggaroo.co.za/) 、 [Twitter](https://twitter.com/riggaroo) 、 [Youtube](https://www.youtube.com/channel/UCMYNag26uKQfHQCgZ1Lm4bQ) 、 [GitHub](https://github.com/riggaroo)
 
 ----------
 
@@ -36,7 +36,7 @@ Android| 作品 |连接
 鸿洋 | |[博客](http://blog.csdn.net/lmj623565791)
 任玉刚 | 《Android开发艺术探索》 | [博客](http://blog.csdn.net/singwhatiwanna)
 刘望舒 | 《Android进阶之光》 | [博客](http://liuwangshu.cn/)
-其他 |  | [技术小黑屋](http://droidyue.com/) 、[毕小烦的学习笔记](http://blog.csdn.net/wirelessqa) 、[生命壹号](http://www.cnblogs.com/smyhvae/) 、 [devilyouwei](http://www.cnblogs.com/devilyouwei/)
+其他 |  | [技术小黑屋](http://droidyue.com/) 、[毕小烦的学习笔记](http://blog.csdn.net/wirelessqa) 、[生命壹号](http://www.cnblogs.com/smyhvae/) 、 [devilyouwei](http://www.cnblogs.com/devilyouwei/) 、[秦子帅](http://qinzishuai.top/)
 周刊 |  | [Android博客周刊](http://www.androidblog.cn/) 、[Android开发技术周报](http://www.androidweekly.cn/) 、 [AndroidCat安卓书签网](http://androidcat.com) 、[干货集中营](http://gank.io/)
 工具 |  | [Android源代码在线查看](http://androidxref.com/) 、[AndroidDevTools](http://www.androiddevtools.cn/) 、[Android开发工具汇总](http://androidblog.cn/tools/) 
 框架 |  | [Android通用流行框架大全](https://segmentfault.com/a/1190000005073746)
