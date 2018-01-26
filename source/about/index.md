@@ -6,7 +6,7 @@ reward: false
 ## 基本信息 ##
 > *  
 <center>
-		![](http://wx2.sinaimg.cn/large/0069VnN5ly1fntrj0u505j30p008wk0h.jpg)
+		![](http://wx1.sinaimg.cn/large/0069VnN5ly1fnts460lnpj30p008waje.jpg)
 </center>
 
 > * 姓名：万秦龙（Android Developer | Learning ios）
