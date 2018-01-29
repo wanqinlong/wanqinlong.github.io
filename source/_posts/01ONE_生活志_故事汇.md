@@ -1,6 +1,6 @@
 ---
 title: 《生活志 | 故事汇》
-date: 2017-5-12 13:08:52  #文章生成时间
+date: 2018-1-30 03:05:47  #文章生成时间
 categories: #文章分类 可省略 # 加 <!--more-->以分割摘要与文章正文。
 - ONE
 - 生活志 #分类2
@@ -8,14 +8,18 @@ tags: #文章标签 可以省略 #设置为则当前页没有打赏按钮reward:
 - 故事 #标签1
 - #标签2
 ---
-![](https://i.imgur.com/kQ0NfWp.jpg)
+
+![](https://i.imgur.com/zHHOqMG.jpg)
 
 <!--more-->
+
+（4）《浪矢解忧杂货店》——2018-1-30（2月2上映）
+
+![](https://i.imgur.com/kQ0NfWp.jpg)
 
 （3）《狩猎》——2017-9-27
 
 ![](https://i.imgur.com/UZs6Odu.jpg)
-
 
 （2）《权力的游戏》——2017-9-21
 
