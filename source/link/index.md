@@ -57,7 +57,7 @@ iOS| 连接
 
 运维| 连接
 -------|----------
-侯金刚 | [博客](http://hi-andy.com/)
+侯金刚 | [博客](http://hi-andy.com/)、[微博](https://weibo.com/Andyhouwb)、 [Twitter](https://twitter.com/AndyHou92) 
 
 
 ----------
