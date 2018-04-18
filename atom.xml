@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>万秦龙 Hyman Wan</title>
+  
+  <subtitle>Android Developer | Learning ios</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://wanqinlong.com/"/>
+  <updated>2018-04-18T20:15:35.498Z</updated>
+  <id>http://wanqinlong.com/</id>
+  
+  <author>
+    <name>万秦龙</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《物联网 (IoT)  | Android Things Developer Preview 5 》</title>
+    <link href="http://wanqinlong.com/2017/09/15/03Google_01IoT_02AndroidThingsP5/"/>
+    <id>http://wanqinlong.com/2017/09/15/03Google_01IoT_02AndroidThingsP5/</id>
+    <published>2017-09-15T13:12:38.000Z</published>
+    <updated>2018-04-18T20:15:35.498Z</updated>
+    
+    <content type="html"><![CDATA[<p>2017年8月23日星期三</p><p>﻿发布人：IoT 开发技术推广工程师 <a href="https://google.com/+WaynePiekarski" target="_blank" rel="external">Wayne Piekarski</a> </p><p>我们宣布推出 <a href="https://developer.android.google.cn/things/index.html" target="_blank" rel="external">Android Things</a> 的 Developer Preview 5 (DP5) 版本，该版本包含基于未来 Android O 版本的重要变更。Android Things 是 Google 推出的平台，旨在帮助 Android 开发者打造物联网 (IoT) 设备，并从原型开发无缝扩展到量产。</p><h1 id="Android-O"><a href="#Android-O" class="headerlink" title="Android O"></a>Android O</h1><p>对于手机和平板电脑，Android O 目前正处于 <a href="https://android-developers.googleblog.com/2017/07/developer-preview-4-now-available.html" target="_blank" rel="external">Developer Preview</a> 阶段，而 DP5 则恰恰基于这一即将发布的版本（之前的版本基于 Android N）。这意味着，您未来的 Android Things 应用应针对 API 26，方可在该平台上正确使用我们的支持库。</p><h1 id="硬件变更"><a href="#硬件变更" class="headerlink" title="硬件变更"></a>硬件变更</h1><p>现在，DP5 新增了对全新 <a href="https://developer.android.google.cn/things/hardware/imx6ul.html" target="_blank" rel="external">NXP SprIoT i.MX6UL</a> 设计的支持，在我们的开发者套件<a href="https://developer.android.google.cn/things/hardware/developer-kits.html" target="_blank" rel="external">文档</a>中列出了这一变更。随着 Intel 停止 <a href="https://software.intel.com/en-us/iot/hardware/edison" target="_blank" rel="external">Edison</a> 和 <a href="https://software.intel.com/en-us/iot/hardware/joule" target="_blank" rel="external">Joule</a> 硬件设计，这些平台即将转入旧设备支持阶段。它们不会继续收到最新的平台更新，但开发者仍可从 Android Things 管理中心继续获取 DP4.1 系统映像。 </p><p>Android Things 的一个重要目标是：帮助开发者从原型开发无缝扩展到量产。当我们结束 Developer Preview 时，我们将会在以仅原型开发为目标的硬件平台和可扩展到量产的硬件参考设计之间进行差异化。可量产的硬件将满足 Google 的安全要求并享有硅半导体制造商的长期支持。稍后，我们还会分享更多内容。</p><ul><li>NXP SprIoT i.MX6UL</li></ul><p><img src="https://i.imgur.com/EalbvxB.png" alt=""></p><a id="more"></a><ul><li>Edison</li></ul><p><img src="https://i.imgur.com/zeJq8Lv.png" alt=""></p><ul><li>Joule</li></ul><p><img src="https://i.imgur.com/JeDxth1.png" alt=""></p><h1 id="改进"><a href="#改进" class="headerlink" title="改进"></a>改进</h1><p>随着我们开始迁移到 Android O 代码库，Android 中提供了一些新的 API 功能，还有一些专门针对 Android Things 的功能。对于使用 UserDriver API 的开发者来说，您将需要在 AndroidManifest.xml 中添加新的权限。<a href="https://developers.android.com/things/sdk/drivers/index.html" target="_blank" rel="external">文档</a>中包含有关每种类型的驱动程序所需的权限详情。DP5 现在还支持在 Raspberry Pi 3 平台上运行 OpenGL ES 2.0 和 WebView，这是开发者社区呼声甚高的一项功能。我们还针对 Raspberry Pi 3 实现了<a href="https://developer.android.google.cn/things/hardware/raspberrypi-mode-matrix.html" target="_blank" rel="external">动态引脚多路复用</a>功能，引脚在运行时根据所要使用的功能进行配置。</p><h1 id="Android-Studio"><a href="#Android-Studio" class="headerlink" title="Android Studio"></a>Android Studio</h1><p>现在，可直接在 Android Studio 中获取 Android Things 示例，以进行浏览和导入。现在，只需进入 File、New、Import Samples 并搜索 Things，即可查看提供的所有示例。我们提供丰富多样的示例，展示了如何与按钮、传感器、LED 和显示屏交互以及如何实现 Google 智能助理和 TensorFlow。</p><h1 id="Android-Things-管理中心"><a href="#Android-Things-管理中心" class="headerlink" title="Android Things 管理中心"></a>Android Things 管理中心</h1><p>我们最近<a href="https://android-developers.googleblog.com/2017/06/android-things-console-developer-preview.html" target="_blank" rel="external">启动</a>了 <a href="https://partner.android.com/things/console" target="_blank" rel="external">Android Things 管理中心</a>，其能够支持对 Android Things 设备的无线更新 (OTA)。我们最近对该管理中心做出了大量用户体验方面的改进，以改善易用性和功能。DP5 现已可在 Android Things 管理中心内部获取，但未经您的干预，DP5 更新不会自动推送到设备。您需要针对 DP5 更新您的应用，然后创建一个新更新并通过管理中心自行推送更新。</p><h1 id="反馈"><a href="#反馈" class="headerlink" title="反馈"></a>反馈</h1><p>在将 Android Things 更新到 Android O 时，我们对该平台做出了一些重要变更。请提<a href="https://code.google.com/p/android/issues/entry?template=Android%20Things%20bug%20report" target="_blank" rel="external">交错误报告</a>和<a href="https://code.google.com/p/android/issues/entry?template=Android%20Things%20feature%20request" target="_blank" rel="external">功能请求</a>，继续向我们发送您的反馈，并欢迎在 <a href="https://stackoverflow.com/questions/tagged/android-things" target="_blank" rel="external">Stack Overflow</a> 上提出任何问题。要开始使用 DP5，请使用 <a href="https://partner.android.com/things/console" target="_blank" rel="external">Android Things 管理中心</a>下载系统映像并更新现有设备。<a href="https://developer.android.google.cn/things/preview/releases.html" target="_blank" rel="external">版本说明</a>中提供了有关这些变更的更多信息。您也可以在 Google+ 上加入 Google 的 IoT 开发者社群，这是一个非常有用的资源，在这里，您可以了解最新消息并讨论想法。此外，我们还建立了新的 <a href="https://www.hackster.io/google" target="_blank" rel="external">hackster.io 社群</a>，在这里，每个人都可以分享他们创建的精彩项目！ </p><hr><p><a href="http://developers.googleblog.cn/2017/08/android-things-developer-preview-5.html" target="_blank" rel="external">原文</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;2017年8月23日星期三&lt;/p&gt;
+&lt;p&gt;﻿发布人：IoT 开发技术推广工程师 &lt;a href=&quot;https://google.com/+WaynePiekarski&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Wayne Piekarski&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;我们宣布推出 &lt;a href=&quot;https://developer.android.google.cn/things/index.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Android Things&lt;/a&gt; 的 Developer Preview 5 (DP5) 版本，该版本包含基于未来 Android O 版本的重要变更。Android Things 是 Google 推出的平台，旨在帮助 Android 开发者打造物联网 (IoT) 设备，并从原型开发无缝扩展到量产。&lt;/p&gt;
+&lt;h1 id=&quot;Android-O&quot;&gt;&lt;a href=&quot;#Android-O&quot; class=&quot;headerlink&quot; title=&quot;Android O&quot;&gt;&lt;/a&gt;Android O&lt;/h1&gt;&lt;p&gt;对于手机和平板电脑，Android O 目前正处于 &lt;a href=&quot;https://android-developers.googleblog.com/2017/07/developer-preview-4-now-available.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Developer Preview&lt;/a&gt; 阶段，而 DP5 则恰恰基于这一即将发布的版本（之前的版本基于 Android N）。这意味着，您未来的 Android Things 应用应针对 API 26，方可在该平台上正确使用我们的支持库。&lt;/p&gt;
+&lt;h1 id=&quot;硬件变更&quot;&gt;&lt;a href=&quot;#硬件变更&quot; class=&quot;headerlink&quot; title=&quot;硬件变更&quot;&gt;&lt;/a&gt;硬件变更&lt;/h1&gt;&lt;p&gt;现在，DP5 新增了对全新 &lt;a href=&quot;https://developer.android.google.cn/things/hardware/imx6ul.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;NXP SprIoT i.MX6UL&lt;/a&gt; 设计的支持，在我们的开发者套件&lt;a href=&quot;https://developer.android.google.cn/things/hardware/developer-kits.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;文档&lt;/a&gt;中列出了这一变更。随着 Intel 停止 &lt;a href=&quot;https://software.intel.com/en-us/iot/hardware/edison&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Edison&lt;/a&gt; 和 &lt;a href=&quot;https://software.intel.com/en-us/iot/hardware/joule&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Joule&lt;/a&gt; 硬件设计，这些平台即将转入旧设备支持阶段。它们不会继续收到最新的平台更新，但开发者仍可从 Android Things 管理中心继续获取 DP4.1 系统映像。 &lt;/p&gt;
+&lt;p&gt;Android Things 的一个重要目标是：帮助开发者从原型开发无缝扩展到量产。当我们结束 Developer Preview 时，我们将会在以仅原型开发为目标的硬件平台和可扩展到量产的硬件参考设计之间进行差异化。可量产的硬件将满足 Google 的安全要求并享有硅半导体制造商的长期支持。稍后，我们还会分享更多内容。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;NXP SprIoT i.MX6UL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/EalbvxB.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Google" scheme="http://wanqinlong.com/categories/Google/"/>
+    
+      <category term="物联网 (IoT)" scheme="http://wanqinlong.com/categories/Google/%E7%89%A9%E8%81%94%E7%BD%91-IoT/"/>
+    
+    
+      <category term="物联网 (IoT)" scheme="http://wanqinlong.com/tags/%E7%89%A9%E8%81%94%E7%BD%91-IoT/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《iOS | 增强现实——苹果ARKit》</title>
+    <link href="http://wanqinlong.com/2017/09/07/06iOS_01ARKit/"/>
+    <id>http://wanqinlong.com/2017/09/07/06iOS_01ARKit/</id>
+    <published>2017-09-07T22:50:47.000Z</published>
+    <updated>2018-04-18T20:15:35.498Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://wx2.sinaimg.cn/mw690/0069VnN5gy1fjbdva23crj31gq0if7wj.jpg" alt=""></p><a id="more"></a><p><a href="http://www.arkit.io/" target="_blank" rel="external">官网</a></p><p><a href="https://developer.apple.com/documentation/arkit" target="_blank" rel="external">官方文档</a></p><p><img src="http://wx2.sinaimg.cn/mw690/0069VnN5gy1fjbdl9c1sej30yl0i9wfl.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://wx2.sinaimg.cn/mw690/0069VnN5gy1fjbdva23crj31gq0if7wj.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="iOS" scheme="http://wanqinlong.com/categories/iOS/"/>
+    
+      <category term="ARKit" scheme="http://wanqinlong.com/categories/iOS/ARKit/"/>
+    
+    
+      <category term="iOS" scheme="http://wanqinlong.com/tags/iOS/"/>
+    
+      <category term="ARKit" scheme="http://wanqinlong.com/tags/ARKit/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《人工智能 | TensorFlow》</title>
+    <link href="http://wanqinlong.com/2017/08/31/04Google_01%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDTensorFlow%E7%AE%80%E4%BB%8B/"/>
+    <id>http://wanqinlong.com/2017/08/31/04Google_01人工智能TensorFlow简介/</id>
+    <published>2017-08-31T18:22:24.000Z</published>
+    <updated>2018-04-18T20:15:35.498Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://wx1.sinaimg.cn/mw690/0069VnN5gy1fj32thp40qj30l408yn0h.jpg" alt=""></p><a id="more"></a><p><a href="https://tensorflow.google.cn/" target="_blank" rel="external">官网使用指南（中国）</a></p><p><img src="http://wx3.sinaimg.cn/mw690/0069VnN5gy1fjbci4nhuyj319z0gi1gs.jpg" alt=""></p><p><a href="http://www.tensorfly.cn/" target="_blank" rel="external">TensorFlow中文社区</a></p><p><img src="http://wx2.sinaimg.cn/mw690/0069VnN5gy1fjbci1esqmj314e0cy4qp.jpg" alt=""></p><h1 id="仓库"><a href="#仓库" class="headerlink" title="仓库"></a>仓库</h1><p><a href="https://github.com/tensorflow/tensorflow" target="_blank" rel="external">Github仓库</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;http://wx1.sinaimg.cn/mw690/0069VnN5gy1fj32thp40qj30l408yn0h.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Google" scheme="http://wanqinlong.com/categories/Google/"/>
+    
+      <category term="人工智能" scheme="http://wanqinlong.com/categories/Google/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+    
+      <category term="TensorFlow" scheme="http://wanqinlong.com/tags/TensorFlow/"/>
+    
+      <category term="人工智能" scheme="http://wanqinlong.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+      <category term="机器学习" scheme="http://wanqinlong.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《物联网 (IoT) | Android Things》</title>
+    <link href="http://wanqinlong.com/2017/08/31/03Google_01IoT_01AndroidThings%E7%AE%80%E4%BB%8B/"/>
+    <id>http://wanqinlong.com/2017/08/31/03Google_01IoT_01AndroidThings简介/</id>
+    <published>2017-08-31T01:59:17.000Z</published>
+    <updated>2018-04-18T20:15:35.498Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="物联网（IoT）"><a href="#物联网（IoT）" class="headerlink" title="物联网（IoT）"></a>物联网（IoT）</h1><h2 id="Google物联网"><a href="#Google物联网" class="headerlink" title="Google物联网"></a>Google物联网</h2><p><a href="https://developers.google.com/iot/" target="_blank" rel="external">Google物联网（IoT）</a>解决方案<a href="https://developer.android.google.cn/things/index.html" target="_blank" rel="external">Android Things</a>（以前称为Brillo）。<br><img src="http://wx1.sinaimg.cn/mw690/0069VnN5gy1fj3chztzvzj31ae0og7ai.jpg" alt=""></p><a id="more"></a><p><a href="https://developer.android.google.cn/things/index.html" target="_blank" rel="external">Android Things（中国）</a></p><p><a href="https://github.com/androidthings" target="_blank" rel="external">官方仓库</a></p><h2 id="阅读"><a href="#阅读" class="headerlink" title="阅读"></a>阅读</h2><p><a href="https://www.diycode.cc/topics/518" target="_blank" rel="external">Android Things 物联网应用开发初体验</a></p><h1 id="其他物联网"><a href="#其他物联网" class="headerlink" title="其他物联网"></a>其他物联网</h1><h2 id="Oracle物联网"><a href="#Oracle物联网" class="headerlink" title="Oracle物联网"></a>Oracle物联网</h2><p><img src="https://i.imgur.com/IxtbrS4.png" alt=""></p><p><img src="https://i.imgur.com/U9S2DXc.png" alt=""></p><p><a href="https://www.oracle.com/solutions/internet-of-things/" target="_blank" rel="external">官网</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;物联网（IoT）&quot;&gt;&lt;a href=&quot;#物联网（IoT）&quot; class=&quot;headerlink&quot; title=&quot;物联网（IoT）&quot;&gt;&lt;/a&gt;物联网（IoT）&lt;/h1&gt;&lt;h2 id=&quot;Google物联网&quot;&gt;&lt;a href=&quot;#Google物联网&quot; class=&quot;headerlink&quot; title=&quot;Google物联网&quot;&gt;&lt;/a&gt;Google物联网&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://developers.google.com/iot/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google物联网（IoT）&lt;/a&gt;解决方案&lt;a href=&quot;https://developer.android.google.cn/things/index.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Android Things&lt;/a&gt;（以前称为Brillo）。&lt;br&gt;&lt;img src=&quot;http://wx1.sinaimg.cn/mw690/0069VnN5gy1fj3chztzvzj31ae0og7ai.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Google" scheme="http://wanqinlong.com/categories/Google/"/>
+    
+      <category term="物联网 (IoT)" scheme="http://wanqinlong.com/categories/Google/%E7%89%A9%E8%81%94%E7%BD%91-IoT/"/>
+    
+    
+      <category term="物联网 (IoT)" scheme="http://wanqinlong.com/tags/%E7%89%A9%E8%81%94%E7%BD%91-IoT/"/>
+    
+  </entry>
+  
+</feed>
